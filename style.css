@@ -197,6 +197,7 @@ ul {
 
 .background-footer {
   background: var(--navyblue);
+  padding: 100px o;
 }
 .logo2 {
   color: var(--cloud);
